@@ -4,3 +4,4 @@ faiss-cpu
 transformers 
 scikit-learn 
 streamlit
+torch
